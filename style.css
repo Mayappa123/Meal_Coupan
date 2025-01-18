@@ -62,14 +62,12 @@ body {
 
 .meal-heading {
   border: 3px solid rgb(0, 0, 0);
+  padding: 10px 2px;
 }
 
 .seal {
   width: 150px;
   height: 150px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   border-radius: 50%;
 }
 
